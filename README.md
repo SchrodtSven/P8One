@@ -38,21 +38,10 @@ see: https://www.php.net/manual/en/language.fibers.php
 -> mhhhhmm..  why? We will come back l8er to check this
 
 #### First Class Callable Syntax ¶
+see: https://www.php.net/manual/en/functions.first_class_callable_syntax.php
 -> mhhhhmm..  We will come back l8er to check this
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### <code>new</code> in Initializers and <code>define()</code>¶
 
 
 
